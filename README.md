@@ -28,6 +28,4 @@ This project launches an Apache web server on an AWS EC2 instance and serves a c
 ## 📸 Screenshot
 Here’s my EC2 server live in action:
 
-![Server Screenshot](screenshot.png)
-
 <img width="1360" height="687" alt="EO2 Site" src="https://github.com/user-attachments/assets/2131b5eb-403a-4e20-afb8-7016c2aa9216" />
