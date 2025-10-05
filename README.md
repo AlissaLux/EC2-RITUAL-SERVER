@@ -9,7 +9,7 @@ This project launches an Apache web server on an AWS EC2 instance and serves a c
 - Hosts a simple HTML page served over HTTP
 - Demonstrates basic cloud infrastructure setup
 
-## 🧰 Tools & Services Used<img width="1360" height="687" alt="EO2 Site" src="https://github.com/user-attachments/assets/2131b5eb-403a-4e20-afb8-7016c2aa9216" />
+## 🧰 Tools & Services Used
 
 
 - AWS EC2
@@ -25,3 +25,4 @@ This project launches an Apache web server on an AWS EC2 instance and serves a c
    ```bash
    ssh ec2-user@<your-public-ip>
 # EC2-RITUAL-SERVER
+<img width="1360" height="687" alt="EO2 Site" src="https://github.com/user-attachments/assets/2131b5eb-403a-4e20-afb8-7016c2aa9216" />
